@@ -1,0 +1,13 @@
+body {
+    background: darkred;
+    color: white;
+}
+
+h1 {
+    color: yellow;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
